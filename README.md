@@ -1,4 +1,4 @@
-# Geamsear.ch Alfred Workflow
+# Gemsear.ch Alfred Workflow
 
 An Alfred 2 Workflow for [GemSear.ch][gs]. Written in Go.
 
