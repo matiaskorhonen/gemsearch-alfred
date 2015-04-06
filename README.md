@@ -8,7 +8,7 @@ An Alfred 2 Workflow for [GemSear.ch][gs]. Written in Go.
 
 Just install the latest `.alfredworkflow` file from the [GitHub releases][releases] page.
 
-[releases]: https://github.com/matiaskorhonen/alfred-bullet/releases
+[releases]: https://github.com/matiaskorhonen/gemsearch-alfred/releases
 
 ## Usage
 
