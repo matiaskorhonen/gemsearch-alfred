@@ -1,0 +1,10 @@
+{
+	"ImportPath": "github.com/matiaskorhonen/gemsearch-alfred",
+	"GoVersion": "go1.4.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/matiaskorhonen/go-alfred",
+			"Rev": "ac2f82a7985918c3c96e781ddd73baf96b041748"
+		}
+	]
+}
